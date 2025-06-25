@@ -116,4 +116,7 @@
 - Der Offtank mit den Spinnen bringt diese immer tankenderweise in den Raid, damit die im AoE fallen oder weggefocused werden wenn Thorog oben ist. Hat den Grunde, dass zum einen FMs auf die Spinnen gezielt oder zufällig gemacht werden können, zum anderen um den Cappys "on defeat skills" freizuschalten für zusätzlichen heal und attackspeed. **Wichtig** für den Offtank: die Spinnen kommen immer wieder neu (die Drachen auch, deswegen im perma CC, die will keiner!), sollten aber automatisch eigentlich zur Gruppe kommen und müssen immer wieder vom Offtank übernommen werden OHNE die Aggro von Thorog zu ziehen. Sprich nur etwas entfernt taunt oder shield-taunt nutzen und näher dran muss über single target skills getankt werden.
 - **WIchtig**: Falls das Auge "fear effekt" nicht genommen werden kann weil Trank auf CD (wobei der Tank NUR dafür genommen wird, alle anderen fear effekte werden von den Cappys genommen!!!), was eig. nicht passieren sollte, dann muss der Spieler aus der Gruppe laufen und zwar auf die andere Seite von Thorog bis zur Tür vom Riesen-Trakt. Der ist dort dann RIP und bleibt da auch, es sei denn man hat grad wirklich viel Luft und jemand kann in rezzen z.B. wenn Thorog grad oben ist.
 
+Aufstellung für Thorog:
+![Thorog fight](https://github.com/MaSchm1983/Helegrod_EoA/blob/main/thorog_fight.png)
+
 
