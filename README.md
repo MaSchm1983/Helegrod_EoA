@@ -101,7 +101,7 @@
 - Offtank stellt sich mit einem Kundi auf die (vom Eingang aus gesehen) rechte Seite der Plattform, nimmt die Untoten in Empfang und bringt vor allem den Weight-Lord zur Gruppe. **ABER**: Der Lord darf nie in die Gruppe gucken, sprich nur in den Rücken der Gruppe bringen und sofort umdrehen.
 - Je nach DPS gehen zwei Schurken bei ~40k-30k moral los und oben zum Landeplatz, wenn Thorog kommt ist Feuer auf der Brücke, dann ist zu spät und RIP
 - Sobald Drugoth weg ist, schwenken alle auf den rangezogenen Weight-Lord und fokussen den weg. Der sollte weg sein, bevor Thorog landet.
-- Anschließend läuft die Gruppe rechts die Treppen hinunter
+- Anschließend läuft die Gruppe rechts die Treppen hinunter und macht dort die verbliebenen Adds.
 
 #### Thorog
 - Immer wenn Thorog landet, gibts ein Hope Wipe. Da muss nachgeworfen werden. Hier muss pro Gruppe eine Reihenfolge klar sein, hier dürfen keine Münzen gewasted werden!!
