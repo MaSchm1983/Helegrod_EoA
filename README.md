@@ -106,6 +106,7 @@
 #### Thorog
 - Immer wenn Thorog landet, gibts ein Hope Wipe. Da muss nachgeworfen werden. Hier muss pro Gruppe eine Reihenfolge klar sein, hier dürfen keine Münzen gewasted werden!!
 - Beide Tanks stellen sich nach Drugoth mit dem Rücken zum Altar etwa und wenn Thorog landet sofort Aggro ziehen. Zwei Tanks, falls einer verfehlt. Der Tank der Aggro hat, bleibt Throrog tank, der zweite Tank läuft zum Lagerfeuer rechts hinten, richtung Plattform und sammelt alle Spinnen ein die Spawnen.
+- *Optional: Falls mehr als zwei Schurken im Raid geht der 3. Schurke (der nicht auf der Plattform oben ist) in Battle Vanish und macht instant Beinfeger/Trip auf Thorog sobald aktiv. Wichtig ist einfach zu vermeiden, dass der direkt in die Gruppe hustet, das ist ggf. auch nen Wipe, aber meistens mal ein semi-wipe!*
 - Wenn Drugoth weg ist, stellen sich auch min zwei Kundis (Kundis und Jäger können generell hinten am Lagerfeuer stehen) an das selbe Lagerfeuer und CC'en jeweils einen der Drachen. Die bleiben den gesamten Kampf im dauer stun. Sprich aufgabe von LMs ist nur Thorog debuffen, Kraft management und je einen drachen im CC halten. Wichtig auch Rabe für Schattenresis.
 - Die Gruppe steht links hinter Thorog und wummert ihm eene. Falls mehr als zwei Schurken, einmal getraiteted disable drauf, einmal offence trick.
 - Immer seitlich hinter Thorog stehen, denn der hat auch ein Schwanzschlag, der ganz ordentlich schmerzen kann.
